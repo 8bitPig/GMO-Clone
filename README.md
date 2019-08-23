@@ -10,3 +10,5 @@ Please do NOT ever SELL the DIY Module you built.
 (CC-BY-NC-SA 4.0)
 
 Before ordering, the files, especially the schemantic should be checked for errors or missing connections by a second pair of eyes please. If you checked them, please let me know. :)
+
+built and tested this version sucessfully on 24th of august 2019. 
